@@ -10,8 +10,8 @@
   - 🌐 HTML | CSS | JavaScript (Basics)
   - 🗄️ MySQL | PostgreSQL
   - 🧪 Git | GitHub | VS Code | Eclipse
-#### 🧠 DSA Practice
- - 📘 Regularly solving problems on [LeetCode](https://leetcode.com/u/Rickshitha/) to strengthen algorithmic thinking
+  #### **Coding Platform**  
+ [LeetCode](https://leetcode.com/u/Rickshitha/) to strengthen algorithmic thinking
 #### 📫 Reach Me
 📧 rickshithakathir@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/rickshitha-r?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
