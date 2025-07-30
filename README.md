@@ -9,7 +9,7 @@
    - 🎓 Accredited Student Member – Computer Society of India (CSI)
 #### 🛠️ Tech Stack
   - 💻 Java | OOP | JDBC | File Handling
-  - 🌐 HTML | CSS | JavaScript (Basics)
+  - 🌐 HTML | CSS | JavaScript 
   - 🗄️ MySQL | PostgreSQL
   - 🧪 Git | GitHub | VS Code | Eclipse
   ####  **📘Coding platform**
